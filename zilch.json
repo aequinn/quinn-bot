@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "quinn bot",
+  "avatar": "acaKKxqIdyDYaHqaa",
+  "preferredColor": "orange",
+  "language": "javascript.node",
+  "game": "table-tennis",
+  "run": "node main.js"
+}
